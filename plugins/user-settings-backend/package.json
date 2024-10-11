@@ -52,7 +52,7 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-defaults": "workspace:^",
+    "@backstage/backend-defaults": "0.1.0",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
@@ -61,13 +61,13 @@
     "@backstage/plugin-user-settings-common": "workspace:^",
     "@backstage/types": "workspace:^",
     "@types/express": "^4.17.6",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-promise-router": "^4.1.0",
     "knex": "^3.0.0",
     "yn": "^4.0.0"
   },
   "devDependencies": {
-    "@backstage/backend-defaults": "workspace:^",
+    "@backstage/backend-defaults": "0.1.0",
     "@backstage/backend-test-utils": "workspace:^",
     "@backstage/cli": "workspace:^",
     "@types/supertest": "^2.0.8",
