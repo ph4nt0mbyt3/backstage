@@ -53,10 +53,10 @@
   "dependencies": {
     "@backstage/backend-common": "^0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/config": "0.1.1",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "1.26.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/plugin-events-node": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
