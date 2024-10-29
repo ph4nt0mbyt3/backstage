@@ -43,7 +43,7 @@
     "@backstage/core-app-api": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@backstage/integration-react": "workspace:^",
-    "@backstage/plugin-catalog": "workspace:^",
+    "@backstage/plugin-catalog": "0.1.1",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/plugin-search-react": "workspace:^",
     "@backstage/plugin-techdocs": "workspace:^",
