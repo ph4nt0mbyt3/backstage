@@ -33,7 +33,7 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-openapi-utils": "workspace:^",
+    "@backstage/backend-openapi-utils": "0.1.7",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
