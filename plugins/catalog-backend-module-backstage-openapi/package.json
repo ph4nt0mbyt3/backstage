@@ -35,8 +35,8 @@
   "dependencies": {
     "@backstage/backend-openapi-utils": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
+    "@backstage/config": "0.1.1",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-catalog-node": "workspace:^",
     "cross-fetch": "^4.0.0",
