@@ -37,7 +37,7 @@
     "@backstage/plugin-app": "workspace:^",
     "@backstage/test-utils": "workspace:^",
     "@backstage/types": "workspace:^",
-    "@backstage/version-bridge": "workspace:^",
+    "@backstage/version-bridge": "0.1.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {
