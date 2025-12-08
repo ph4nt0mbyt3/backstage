@@ -54,7 +54,7 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
+    "@backstage/integration": "0.1.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@types/node-fetch": "^2.5.12",
     "node-fetch": "^2.7.0",
