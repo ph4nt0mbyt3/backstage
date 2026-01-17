@@ -35,9 +35,9 @@
   "dependencies": {
     "@backstage/backend-common": "^0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-node": "workspace:^",
+    "@backstage/plugin-auth-node": "0.5.2",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/plugin-catalog-unprocessed-entities-common": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
