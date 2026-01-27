@@ -31,10 +31,10 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
+    "@backstage/core-plugin-api": "0.1.0",
+    "@backstage/frontend-plugin-api": "0.0.0",
     "@backstage/version-bridge": "workspace:^",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@backstage-community/plugin-puppetdb": "^0.1.18",
